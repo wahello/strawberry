@@ -429,6 +429,7 @@ option(INSTALL_TRANSLATIONS "Install translations" OFF)
 
 optional_component(SUBSONIC ON "Subsonic support")
 optional_component(TIDAL ON "Tidal support")
+optional_component(SPOTIFY ON "Spotify support")
 optional_component(QOBUZ ON "Qobuz support")
 
 optional_component(MOODBAR ON "Moodbar"
